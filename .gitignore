@@ -1,0 +1,25 @@
+# igdskfhdskfasdfefdjf
+# fsdhf;asdfh
+# sdfadsfhaSD
+# SDFASJDF
+# ASF
+# SDF
+# ASDF
+# AS
+# DF
+# AS
+# DF
+# S
+# ADFKWERJ	WE
+# RF
+# WFE	wetf
+# WEF
+# nore a file type
+
+*.json
+/mtk/
+!/mtk/bib.bib
+!/mtk/figure
+!/mtk/thesis_example.tex
+!/mtk/zjutthesis.cls
+build
